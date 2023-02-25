@@ -31,7 +31,7 @@
 
 ## DB Schema
 
-![alt text](https://drive.google.com/file/d/1cUZ1uCyngQq1oqDK8GJ39pUd3c9-hcA9/view?usp=sharing)
+![Alt text](/app/assets/images/db-schema.png "DB tables")
 
 ## Server
 
