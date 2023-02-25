@@ -33,6 +33,11 @@
 
 ![Alt text](/app/assets/images/db-schema.png "DB tables")
 
+## Unit test results
+
+- Finished in 0.59877 seconds (files took 2.09 seconds to load)
+- 10 examples, 0 failures
+
 ## Server
 
 - rails s
