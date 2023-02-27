@@ -98,7 +98,7 @@ Rails.application.configure do
   config.active_record.dump_schema_after_migration = false
 
   Rails.application.routes.default_url_options = {
-    host: 'preeminent-marshmallow-a8c131.netlify.app'
+    host: 'sniffspot-api-production.up.railway.app'
   }
   # Inserts middleware to perform automatic connection switching.
   # The `database_selector` hash is used to pass options to the DatabaseSelector
